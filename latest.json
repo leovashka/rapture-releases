@@ -1,0 +1,13 @@
+{
+ "version": "1.0.16",
+ "date": "2026-11-21",
+ "files": {
+  "esp32": "1.0.16/rapture-esp32-1.0.16-ota.bin",
+  "esp32s2": "1.0.16/rapture-esp32s2-1.0.16-ota.bin",
+  "esp32s3": "1.0.16/rapture-esp32s3-1.0.16-ota.bin",
+  "esp32s3_n16r8": "1.0.16/rapture-esp32s3_n16r8-1.0.16-ota.bin",
+  "esp32c3": "1.0.16/rapture-esp32c3-1.0.16-ota.bin",
+  "esp32c6": "1.0.16/rapture-esp32c6-1.0.16-ota.bin"
+ },
+ "notes": "ota_url: обновление из интернета (и через облако); защита насоса ждёт уровень; исправлен ложный перезапуск сторожа задач"
+}
