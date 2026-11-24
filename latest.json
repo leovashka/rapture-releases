@@ -1,13 +1,13 @@
 {
- "version": "1.0.17",
- "date": "2026-11-23",
+ "version": "1.0.18",
+ "date": "2026-11-24",
  "files": {
-  "esp32": "1.0.17/rapture-esp32-1.0.17-ota.bin",
-  "esp32s2": "1.0.17/rapture-esp32s2-1.0.17-ota.bin",
-  "esp32s3": "1.0.17/rapture-esp32s3-1.0.17-ota.bin",
-  "esp32s3_n16r8": "1.0.17/rapture-esp32s3_n16r8-1.0.17-ota.bin",
-  "esp32c3": "1.0.17/rapture-esp32c3-1.0.17-ota.bin",
-  "esp32c6": "1.0.17/rapture-esp32c6-1.0.17-ota.bin"
+  "esp32": "1.0.18/rapture-esp32-1.0.18-ota.bin",
+  "esp32s2": "1.0.18/rapture-esp32s2-1.0.18-ota.bin",
+  "esp32s3": "1.0.18/rapture-esp32s3-1.0.18-ota.bin",
+  "esp32s3_n16r8": "1.0.18/rapture-esp32s3_n16r8-1.0.18-ota.bin",
+  "esp32c3": "1.0.18/rapture-esp32c3-1.0.18-ota.bin",
+  "esp32c6": "1.0.18/rapture-esp32c6-1.0.18-ota.bin"
  },
- "notes": "Инвертор: выход «Принятый пакет» (байт в байт) и режим «Пакеты с другой платы»"
+ "notes": "Инвертор: режим, аварии и предупреждения, настройки (Off-grid/Hybrid), флаги, солнце за сегодня, прошивка"
 }
